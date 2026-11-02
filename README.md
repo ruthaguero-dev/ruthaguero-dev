@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hola, soy Ruth Agüero Meza 👋
+### Estudiante de Ingeniería de Sistemas (8.° - 9.° Ciclo) | Base de Datos, Desarrollo Web & BI
 
-<!--
-**ruthaguero-dev/ruthaguero-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería de Sistemas en la Universidad Tecnológica del Perú (UTP). Me especializo en el diseño de bases de datos relacionales, desarrollo de aplicaciones web orientadas a procesos de negocio y análisis comercial con herramientas de Business Intelligence.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Stack Tecnológico y Herramientas
+* **Bases de Datos & Datos:** PostgreSQL · Oracle Database (PL/SQL) · SQL Server · Modelado ER · Transacciones ACID · Power BI Desktop (DAX / Dashboards Comerciales)
+* **Desarrollo Web (Frontend & Backend):** JavaScript (ES6+) · React · Node.js · Express · REST APIs · HTML5 · CSS3
+* **Ingeniería de Software & Procesos:** UML · BPMN 2.0 · Patrones de Diseño (GOF) · Git & GitHub
+* **Redes e Infraestructura:** Cisco Networking (TCP/IP, ACLs, Zone-Based Firewalls, Routing)
+
+---
+
+### 🚀 Proyectos Destacados en este Portafolio
+1. **📦 Sistema de Control de Inventario y Kardex con Alertas de Stock**
+   * **Problema resuelto:** Control transaccional de entradas/salidas de mercadería evitando quiebres de stock e inconsistencias contables.
+   * **Tecnologías:** PostgreSQL, Node.js, Express, React.
+   * **Ingeniería aplicada:** Triggers para actualización automática de Kardex, bloqueos transaccionales y alertas de stock mínimo.
+
