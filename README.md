@@ -1,5 +1,5 @@
-# Hola, soy Ruth Agüero Meza 👋
-### Estudiante de Ingeniería de Sistemas (8.° - 9.° Ciclo) | Base de Datos, Desarrollo Web & BI
+# Ruth Agüero 
+### Estudiante de Ingeniería de Sistemas | Base de Datos, Desarrollo Web & BI
 
 Estudiante de Ingeniería de Sistemas en la Universidad Tecnológica del Perú (UTP). Me especializo en el diseño de bases de datos relacionales, desarrollo de aplicaciones web orientadas a procesos de negocio y análisis comercial con herramientas de Business Intelligence.
 
